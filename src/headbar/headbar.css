@@ -1,0 +1,21 @@
+.headbar {
+    position: fixed;
+    width: 100%;
+    height: 6rem;
+    top: 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: white;
+}
+
+.header_titel {
+    text-align: center;
+    font-size: 40px;
+}
+
+.header_img {
+    position: fixed;
+    top: 1rem;
+    right: 5%;
+    height: 4rem;
+    clip-path: circle();
+}
